@@ -436,7 +436,7 @@
                                     <div class="col-sm-12" style="height: 500px; overflow-y:auto;">
                                         <div class="container">
                                             <div class="row">
-                                                <input type="hidden" name="expert_id" id="expert-id">
+                                                <input type="hidden hideee" name="expert_id" id="expert-id">
                                                 @foreach ($partners as $index => $partner)
                                                 <div class="">
                                                     <div class="box new-box" id="partnerBox{{ $index + 1 }}">
